@@ -15,6 +15,10 @@ class Genesis {
 
         day1(earth);
         day2(earth);
+        day3(earth);
+        day4(heaven);
+        day5(earth);
+        day6(earth);
 
 
     }
