@@ -20,7 +20,6 @@ class Genesis {
         day5(earth);
         day6(earth);
 
-
     }
 
     private static void day1(Earth earth) {
@@ -129,5 +128,6 @@ class Genesis {
                 "green herb for meat");
 
         god.contemplate("this is very good");
+        return;
     }
 }
